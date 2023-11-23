@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+## ZzY的个人资源小站
 
-You can use the [editor on GitHub](https://github.com/EnderHAXTD/reloadanswers.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/zzyhaxtd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 学习资源收录见下方，点击后方 Link 字样即可获取。
 
 ```markdown
-Syntax highlighted code block
+康复医学导论部分知识点.docx[link](https://endertd.lanzoue.com/ibDfY1fppzob) 2023/11/23
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
